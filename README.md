@@ -1,25 +1,20 @@
-# Aluratube
+## 🚧 Em construção 🚧
 
-Seja bem vindo ao projeto base do Aluratube!!! Passos fundamentais:
-- Marque esse projeto com uma estrela
-- Siga as instruções das aulas e conteúdo extra da Imersão React Next.js
-- Faça o deploy na Vercel e compartilhe!
+# aluraTube
 
-![demo_light_02](https://user-images.githubusercontent.com/13791385/200179084-1f71bc79-5348-4aa9-b7c8-2abc7fe63035.jpg)
+![AluraTube](https://user-images.githubusercontent.com/77698539/211073564-934094e5-3d72-4ab2-9787-82acdace79b0.PNG)
+![AluraTube](https://user-images.githubusercontent.com/77698539/211075200-57886d6a-3840-4a1b-9eb2-0a83da63cafe.PNG)
 
+## Descrição do Projeto
+Projeto desenvolvido juntamente com a imersão React da Alura sobre React + Next;
 
-## Como colocar o meu projeto na vitrine da imersão?
-- Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerda dentro do repositório no GitHub
-- Adicione as tags "aluratube" e a tag "imersao-react"
-- E pronto!
+## 📚 Lições Aprendida
 
-## Onde está o Layout base do projeto?
-- [Link](https://www.figma.com/file/1acrju7CLwHkSh6e7xEk9h/Aluratube?node-id=0%3A1)
+## 🛠 Funcionalidades 
 
 
-# Contribuidores 
 
-| Pessoa que criou o projeto | 
-| --- |
-| <!-- CHANNEL_PROJECTS:START -->
-<!-- CHANNEL_PROJECTS:END --> |
+## 🖥 Tecnologias utilizadas 
+ - `` React ``
+ - `` Next `` 
+ 
